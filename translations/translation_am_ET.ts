@@ -6,107 +6,112 @@
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>የت учитываም ወይም</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation type="unfinished"></translation>
+        <translation>እውን አመሰግናለን!</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
         <source>Hello World</source>
-        <translation type="unfinished"></translation>
+        <translation>ሰላም ዓለም</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
         <source>Good Morning</source>
-        <translation type="unfinished"></translation>
+        <translation>ሰ意见反馈</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation type="unfinished"></translation>
+        <translation>ሰ意见反馈</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
         <source>Good Evening</source>
-        <translation type="unfinished"></translation>
+        <translation>ሰ意见反馈</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="38"/>
         <source>Thank You</source>
-        <translation type="unfinished"></translation>
+        <translation>እንኳን ነገር ምንእል</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
         <source>Please Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>እባክዎ ለመልኩ ነገር</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>አ }&gt;意见反馈</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
         <source>Error Occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>አ እrror ነገር ለመልኩ ነገር</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation type="unfinished"></translation>
+        <translation>እውን በመልኩ ነገር</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="64"/>
+        <location filename="../mainwindow.cpp" line="43"/>
+        <source>Hello TianShilin</source>
+        <translation>ሰላም ሰአማይ</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation type="unfinished"></translation>
+        <translation>እውን አመሰግናለን የአ }&gt;意见反馈</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="69"/>
+        <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation type="unfinished"></translation>
+        <translation>ሰላም ዓለም! እንዴት ነገር ለመልኩ ነገር</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="74"/>
+        <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation type="unfinished"></translation>
+        <translation>ሰ意见反馈! እንዴት ነገር ለመልኩ ነገር</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="79"/>
-        <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation type="unfinished"></translation>
+        <location filename="../mainwindow.cpp" line="81"/>
+        <source>Good Afternoon! Hope you're having a productive day!</source>
+        <translation>እኩይ ኣናኝ! እንዴት ኣብ የመወሰን እንደሚገኙ ፀብናቸው? </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="84"/>
+        <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation type="unfinished"></translation>
+        <translation>እንኩይ ቀኝ! ለመቀስ እንዴት ማለት! </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="89"/>
+        <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation type="unfinished"></translation>
+        <translation>የእኩል በእምሮ የኋላ አየኩል የኋላ! </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="94"/>
+        <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation type="unfinished"></translation>
+        <translation>እንዴት ይውሉ የኋላ እንደገኙ በአየኩል በመጠቀም ጠቃላይ... </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="99"/>
+        <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation type="unfinished"></translation>
+        <translation>አየኩል በአሱ በቃላይ ይቻል! </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="104"/>
+        <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>የሠርተ ይሆን! እንዴት በኋላ በመጠቀም በመጠቀም ይጠፋል. </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="109"/>
+        <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation type="unfinished"></translation>
+        <translation>በመልካም! በተመሳሳይ ዝተመለስ በመልካም! </translation>
     </message>
 </context>
 </TS>

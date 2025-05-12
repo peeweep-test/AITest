@@ -69,4 +69,14 @@ QMAKE_POST_LINK += $$QMAKE_CHK_DIR_EXISTS $$TRANSLATIONS_DIR || $$QMAKE_MKDIR $$
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
-!isEmpty(target.path): INSTALLS += target 
+!isEmpty(target.path): INSTALLS += target
+
+# Transifex configuration
+TRANSLATIONS_DIR = translations
+!exists($$TRANSLATIONS_DIR) {
+    mkpath($$TRANSLATIONS_DIR)
+}
+
+# Update translations from Transifex
+QMAKE_POST_LINK += $$QMAKE_CHK_DIR_EXISTS $$TRANSLATIONS_DIR || $$QMAKE_MKDIR $$TRANSLATIONS_DIR
+QMAKE_POST_LINK += tx pull -a 

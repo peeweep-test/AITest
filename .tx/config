@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[TranslationDemo.translation]
+file_filter = translations/translation_<lang>.ts
+source_file = translations/translation_en.ts
+source_lang = en
+type = QT
+

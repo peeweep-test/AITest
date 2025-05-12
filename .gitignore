@@ -1,0 +1,33 @@
+# Qt specific
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qm
+*.o
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*build-*
+*.prl
+*.pri
+*.prf
+*.qmlc
+*.jsc
+.qmake.cache
+.qmake.stash
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*~
+
+# 确保.tx目录不被忽略
+!.tx/
+!.tx/config
+
+# 其他
+*.ts
+!translations/*.ts 

@@ -44,6 +44,8 @@ void MainWindow::setupButtons()
     buttons[11] = new QPushButton(tr("Test if the translation was successful"), this);
     buttons[12] = new QPushButton(tr("translation was successful"), this);
     buttons[12] = new QPushButton(tr("International Translation Platform"), this);
+    buttons[13] = new QPushButton(tr("Platform"), this);
+
 
 
 

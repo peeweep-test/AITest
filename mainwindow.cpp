@@ -45,6 +45,14 @@ void MainWindow::setupButtons()
     buttons[12] = new QPushButton(tr("translation was successful"), this);
     buttons[12] = new QPushButton(tr("International Translation Platform"), this);
     buttons[13] = new QPushButton(tr("Platform"), this);
+    buttons[14] = new QPushButton(tr("automatic detection and processing of multilingual translation"), this);
+    buttons[15] = new QPushButton(tr("today"), this);
+    buttons[16] = new QPushButton(tr("yesterday"), this);
+    buttons[17] = new QPushButton(tr("tomorrow"), this);
+    buttons[18] = new QPushButton(tr("week"), this);
+    buttons[19] = new QPushButton(tr("month"), this);
+    buttons[20] = new QPushButton(tr("year"), this);
+
 
 
 

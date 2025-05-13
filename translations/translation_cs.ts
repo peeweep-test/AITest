@@ -64,65 +64,70 @@
     <message>
         <location filename="../mainwindow.cpp" line="44"/>
         <source>Test if the translation was successful</source>
-        <translation type="unfinished"/>
+        <translation>Otestovat, zda byla překlad správně proveden</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="45"/>
         <source>translation was successful</source>
-        <translation type="unfinished"/>
+        <translation>překlad byl úspěšný</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="46"/>
         <source>International Translation Platform</source>
-        <translation type="unfinished"/>
+        <translation>Mezinárodní platforma pro překlady</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="73"/>
+        <location filename="../mainwindow.cpp" line="47"/>
+        <source>Platform</source>
+        <translation>Platforma</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="75"/>
         <source>Welcome to our application!</source>
         <translation>Vítejte v naší aplikaci!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="78"/>
+        <location filename="../mainwindow.cpp" line="80"/>
         <source>Hello World! This is a test message.</source>
         <translation>Ahoj světe! Tohle je testovací zpráva.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="83"/>
+        <location filename="../mainwindow.cpp" line="85"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>Dobré ráno! Mějte hezký den!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="88"/>
-        <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
+        <location filename="../mainwindow.cpp" line="90"/>
+        <source>Good Afternoon! Hope you're having a productive day!</source>
         <translation>Dobrý den! Doufám, že máte produktivní den!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="93"/>
+        <location filename="../mainwindow.cpp" line="95"/>
         <source>Good Evening! Time to relax!</source>
         <translation>Dobrý večer! Je čas se uvolnit!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="98"/>
+        <location filename="../mainwindow.cpp" line="100"/>
         <source>Thank You for using our application!</source>
         <translation>Děkujeme za používání naší aplikace!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="103"/>
+        <location filename="../mainwindow.cpp" line="105"/>
         <source>Please Wait while we process your request...</source>
         <translation>Počkejte, zpracováváme vaši žádost...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="108"/>
+        <location filename="../mainwindow.cpp" line="110"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>Operace dokončena! Vše proběhlo v pořádku.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="113"/>
+        <location filename="../mainwindow.cpp" line="115"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>Došlo k chybě! Zkuste to prosím později.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="118"/>
+        <location filename="../mainwindow.cpp" line="120"/>
         <source>Goodbye! See you next time!</source>
         <translation>Ahoj! Navštivíme se znovu!</translation>
     </message>

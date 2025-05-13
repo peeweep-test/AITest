@@ -64,65 +64,70 @@
     <message>
         <location filename="../mainwindow.cpp" line="44"/>
         <source>Test if the translation was successful</source>
-        <translation type="unfinished"/>
+        <translation>བརྗོད་སྐད་ལས་བཟོ་འགྲོའི་བརྗོད་སྐད་གྱི་དུས་རིམ་གཅིག་ལ་འབོད་བསྟེན་ཤོག་གི་རེད།</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="45"/>
         <source>translation was successful</source>
-        <translation type="unfinished"/>
+        <translation>བརྗོད་སྐད་བསྟེན་པ་ཤིང་།</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="46"/>
         <source>International Translation Platform</source>
-        <translation type="unfinished"/>
+        <translation>བོད་ཡིག་ཨི་ནོ་བརྗོད་སྐད་བཞིན་བཞི</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="73"/>
+        <location filename="../mainwindow.cpp" line="47"/>
+        <source>Platform</source>
+        <translation>བརྗོད་སྐད</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="75"/>
         <source>Welcome to our application!</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="78"/>
+        <location filename="../mainwindow.cpp" line="80"/>
         <source>Hello World! This is a test message.</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་ལྟ་བ་སྤྱད་བཞིན་སྤྱད་བྱེད་བྱེད་ཀྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="83"/>
+        <location filename="../mainwindow.cpp" line="85"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>ལོ་གསར་ལོ་གསར་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="88"/>
-        <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
+        <location filename="../mainwindow.cpp" line="90"/>
+        <source>Good Afternoon! Hope you're having a productive day!</source>
         <translation>ལོ་ཤེས་ལོ་ཤེས་ལ་བཟོད་པ་རེད། འདི་ལོ་ཤེས་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="93"/>
+        <location filename="../mainwindow.cpp" line="95"/>
         <source>Good Evening! Time to relax!</source>
         <translation>ལོ་ཤེས་ལོ་ཤེས་ལ་བཟོད་པ་རེད། རྒྱུ་ལྟར་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="98"/>
+        <location filename="../mainwindow.cpp" line="100"/>
         <source>Thank You for using our application!</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་ལྟ་བ་བྱེད་བཞིན་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="103"/>
+        <location filename="../mainwindow.cpp" line="105"/>
         <source>Please Wait while we process your request...</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་ལྟ་བ་བྱེད་བཞིན་བཟོད་པ་རེད། མེད་པ་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="108"/>
+        <location filename="../mainwindow.cpp" line="110"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>བཟོད་པ་རེད། གྱི་ལྟ་བ་བྱེད་བཞིན་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="113"/>
+        <location filename="../mainwindow.cpp" line="115"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>ལོ་ཤིས་ལུ་རྒྱུ་ཡོད་པ་ལ་བློ་གྲུབ་རྒྱ་མཚོ་ལྟར་ཡོད་པ་འབྲེལ་བ་ལྟར།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="118"/>
+        <location filename="../mainwindow.cpp" line="120"/>
         <source>Goodbye! See you next time!</source>
         <translation>བཟོ་བྱེད་! སྤྱན་ལས་བཟོ་བྱེད་ཀྱི་ལམ་ལྟར་ཡོད་པ་འབྲེལ་བ་ལྟར།</translation>
     </message>

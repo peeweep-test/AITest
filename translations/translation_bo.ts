@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="bo">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="bo">
 <context>
     <name>MainWindow</name>
     <message>
@@ -62,52 +64,57 @@
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་བྱེད་ཀྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="66"/>
+        <location filename="../mainwindow.cpp" line="44"/>
+        <source>Test if the translation was successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="68"/>
         <source>Welcome to our application!</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="71"/>
+        <location filename="../mainwindow.cpp" line="73"/>
         <source>Hello World! This is a test message.</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་ལྟ་བ་སྤྱད་བཞིན་སྤྱད་བྱེད་བྱེད་ཀྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="76"/>
+        <location filename="../mainwindow.cpp" line="78"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>ལོ་གསར་ལོ་གསར་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="81"/>
+        <location filename="../mainwindow.cpp" line="83"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>ལོ་ཤེས་ལོ་ཤེས་ལ་བཟོད་པ་རེད། འདི་ལོ་ཤེས་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="86"/>
+        <location filename="../mainwindow.cpp" line="88"/>
         <source>Good Evening! Time to relax!</source>
         <translation>ལོ་ཤེས་ལོ་ཤེས་ལ་བཟོད་པ་རེད། རྒྱུ་ལྟར་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="91"/>
+        <location filename="../mainwindow.cpp" line="93"/>
         <source>Thank You for using our application!</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་ལྟ་བ་བྱེད་བཞིན་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="96"/>
+        <location filename="../mainwindow.cpp" line="98"/>
         <source>Please Wait while we process your request...</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་ལྟ་བ་བྱེད་བཞིན་བཟོད་པ་རེད། མེད་པ་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="101"/>
+        <location filename="../mainwindow.cpp" line="103"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>བཟོད་པ་རེད། གྱི་ལྟ་བ་བྱེད་བཞིན་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="106"/>
+        <location filename="../mainwindow.cpp" line="108"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>ལོ་ཤིས་ལུ་རྒྱུ་ཡོད་པ་ལ་བློ་གྲུབ་རྒྱ་མཚོ་ལྟར་ཡོད་པ་འབྲེལ་བ་ལྟར།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="113"/>
         <source>Goodbye! See you next time!</source>
         <translation>བཟོ་བྱེད་! སྤྱན་ལས་བཟོ་བྱེད་ཀྱི་ལམ་ལྟར་ཡོད་པ་འབྲེལ་བ་ལྟར།</translation>
     </message>

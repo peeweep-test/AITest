@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="he">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="he">
 <context>
     <name>MainWindow</name>
     <message>
@@ -62,52 +64,57 @@
         <translation>שלום TianShilin</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="66"/>
+        <location filename="../mainwindow.cpp" line="44"/>
+        <source>Test if the translation was successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="68"/>
         <source>Welcome to our application!</source>
         <translation>ברוך הבא לפלטפורמתנו!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="71"/>
+        <location filename="../mainwindow.cpp" line="73"/>
         <source>Hello World! This is a test message.</source>
         <translation>שלום עולם! זו הודעה בדיקה.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="76"/>
+        <location filename="../mainwindow.cpp" line="78"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>בוקר טוב! יש לך יום נחמד!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="81"/>
+        <location filename="../mainwindow.cpp" line="83"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>צהריים טובים! מקווה שאתה עסוק במשהו טוב!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="86"/>
+        <location filename="../mainwindow.cpp" line="88"/>
         <source>Good Evening! Time to relax!</source>
         <translation>ערב טוב! זמן להירגע!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="91"/>
+        <location filename="../mainwindow.cpp" line="93"/>
         <source>Thank You for using our application!</source>
         <translation>תודה על씀פלטפורמתנו!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="96"/>
+        <location filename="../mainwindow.cpp" line="98"/>
         <source>Please Wait while we process your request...</source>
         <translation>אלהיהבהEXPECTING while אנחנו מטפלים בבקשה שלך...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="101"/>
+        <location filename="../mainwindow.cpp" line="103"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>הפעולה הסתיימה! הכל הלך כמו שצריך.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="106"/>
+        <location filename="../mainwindow.cpp" line="108"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>התרחשה שגיאה! נסה שוב מאוחר יותר.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="113"/>
         <source>Goodbye! See you next time!</source>
         <translation>הנהיה! הראינו את הפעם הבאה!</translation>
     </message>

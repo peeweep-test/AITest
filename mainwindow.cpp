@@ -41,6 +41,7 @@ void MainWindow::setupButtons()
     buttons[8] = new QPushButton(tr("Error Occurred"), this);
     buttons[9] = new QPushButton(tr("Goodbye"), this);
     buttons[10] = new QPushButton(tr("Hello TianShilin"), this);
+    buttons[11] = new QPushButton(tr("Test if the translation was successful"), this);
 
     // 添加按钮到布局
     for(int i = 0; i < 10; ++i) {
@@ -59,6 +60,7 @@ void MainWindow::setupButtons()
     connect(buttons[8], &QPushButton::clicked, this, &MainWindow::onButton9Clicked);
     connect(buttons[9], &QPushButton::clicked, this, &MainWindow::onButton10Clicked);
     connect(buttons[10], &QPushButton::clicked, this, &MainWindow::onButton11Clicked);
+    connect(buttons[11], &QPushButton::clicked, this, &MainWindow::onButton12Clicked);
 }
 
 void MainWindow::onButton1Clicked()

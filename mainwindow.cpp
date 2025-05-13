@@ -43,6 +43,8 @@ void MainWindow::setupButtons()
     buttons[10] = new QPushButton(tr("Hello TianShilin"), this);
     buttons[11] = new QPushButton(tr("Test if the translation was successful"), this);
     buttons[12] = new QPushButton(tr("translation was successful"), this);
+    buttons[12] = new QPushButton(tr("International Translation Platform"), this);
+
 
 
     // 添加按钮到布局

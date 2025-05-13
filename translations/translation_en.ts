@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="en">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="en">
 <context>
     <name>MainWindow</name>
     <message>
@@ -76,7 +74,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="46"/>
         <source>International Translation Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>International Translation Platform</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="73"/>

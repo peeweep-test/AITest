@@ -1,117 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="ar_EG">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ar">
 <context>
     <name>MainWindow</name>
     <message>
         <location filename="../mainwindow.cpp" line="22"/>
         <source>Translation Demo</source>
-        <translation type="unfinished"></translation>
+        <translation> billigة الترجمة</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation type="unfinished"></translation>
+        <translation>مرحبًا بك</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
         <source>Hello World</source>
-        <translation type="unfinished"></translation>
+        <translation>مرحباً بالعالم</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="35"/>
         <source>Good Morning</source>
-        <translation type="unfinished"></translation>
+        <translation>صباح الخير</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="36"/>
         <source>Good Afternoon</source>
-        <translation type="unfinished"></translation>
+        <translation>بعد الظهر جيد</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="37"/>
         <source>Good Evening</source>
-        <translation type="unfinished"></translation>
+        <translation>مساءً حسنًا</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="38"/>
         <source>Thank You</source>
-        <translation type="unfinished"></translation>
+        <translation>شكراً</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="39"/>
         <source>Please Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>الرجاء الانتظار</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="40"/>
         <source>Operation Complete</source>
-        <translation type="unfinished"></translation>
+        <translation>العملية مكتملة</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
         <source>Error Occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
         <source>Goodbye</source>
-        <translation type="unfinished"></translation>
+        <translation>وداعاً</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="43"/>
         <source>Hello TianShilin</source>
-        <translation type="unfinished"></translation>
+        <translation>مرحبًا TianShilin</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="66"/>
         <source>Welcome to our application!</source>
-        <translation type="unfinished"></translation>
+        <translation>مرحباً بكم في تطبيقنا!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="71"/>
         <source>Hello World! This is a test message.</source>
-        <translation type="unfinished"></translation>
+        <translation>مرحباً بالعالم! هذا رسالة اختبار.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="76"/>
         <source>Good Morning! Have a nice day!</source>
-        <translation type="unfinished"></translation>
+        <translation>صباح الخير! أتمنى لك يومًا رائعًا!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="81"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
-        <translation type="unfinished"></translation>
+        <translation>بعد الظهر! أتمنى أن تكون يومك إنتاجيًا!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="86"/>
         <source>Good Evening! Time to relax!</source>
-        <translation type="unfinished"></translation>
+        <translation>مساءً سعيدًا! الوقت للراحة!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="91"/>
         <source>Thank You for using our application!</source>
-        <translation type="unfinished"></translation>
+        <translation>شكراً لاستخدامكم لتطبيقنا!
+</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="96"/>
         <source>Please Wait while we process your request...</source>
-        <translation type="unfinished"></translation>
+        <translation>يرجى الانتظار пока نقوم معالجة طلبك...</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="101"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation type="unfinished"></translation>
+        <translation>العملية اكتملت! كل شيء ذهب حسنًا.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="106"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ! يرجى المحاولة مرة أخرى لاحقاً.</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="111"/>
         <source>Goodbye! See you next time!</source>
-        <translation type="unfinished"></translation>
+        <translation>وداعاً! نلقاكم下次见！</translation>
     </message>
 </context>
 </TS>

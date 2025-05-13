@@ -9,7 +9,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="33"/>
         <source>Welcome Message</source>
-        <translation>Missatge d'benvinguda</translation>
+        <translation>Missatge d&apos;benvinguda</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="34"/>
@@ -49,7 +49,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="41"/>
         <source>Error Occurred</source>
-        <translation>S'ha produït un error</translation>
+        <translation>S&apos;ha produït un error</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="42"/>
@@ -64,12 +64,12 @@
     <message>
         <location filename="../mainwindow.cpp" line="44"/>
         <source>Test if the translation was successful</source>
-        <translation>Prova si la traducció s'ha realitzat correctament</translation>
+        <translation>Prova si la traducció s&apos;ha realitzat correctament</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="45"/>
         <source>translation was successful</source>
-        <translation>la traducció s'ha realitzat correctament</translation>
+        <translation>la traducció s&apos;ha realitzat correctament</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="46"/>
@@ -82,57 +82,92 @@
         <translation>Plataforma</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="75"/>
+        <location filename="../mainwindow.cpp" line="48"/>
+        <source>automatic detection and processing of multilingual translation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="49"/>
+        <source>today</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="50"/>
+        <source>yesterday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="51"/>
+        <source>tomorrow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="52"/>
+        <source>week</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="53"/>
+        <source>month</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="54"/>
+        <source>year</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="83"/>
         <source>Welcome to our application!</source>
         <translation>Benvingut a la nostra aplicació!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="80"/>
+        <location filename="../mainwindow.cpp" line="88"/>
         <source>Hello World! This is a test message.</source>
         <translation>Hola Món! Aquest és un missatge de prova.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="85"/>
+        <location filename="../mainwindow.cpp" line="93"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>Bona matinada! Esperem que tinguis un bon dia!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="90"/>
-        <source>Good Afternoon! Hope you're having a productive day!</source>
+        <location filename="../mainwindow.cpp" line="98"/>
+        <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>Bona tarda! Esperem que estiguis tenint un dia productiu!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="95"/>
+        <location filename="../mainwindow.cpp" line="103"/>
         <source>Good Evening! Time to relax!</source>
         <translation>Bona veintena! Moment de relaxar-te!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="100"/>
+        <location filename="../mainwindow.cpp" line="108"/>
         <source>Thank You for using our application!</source>
         <translation>Gràcies per utilitzar la nostra aplicació!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="105"/>
+        <location filename="../mainwindow.cpp" line="113"/>
         <source>Please Wait while we process your request...</source>
         <translation>Espereu mentre processem la vostra sol·licitud...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="110"/>
+        <location filename="../mainwindow.cpp" line="118"/>
         <source>Operation Complete! Everything went well.</source>
-        <translation>Operació completada! Tot s'ha fet bé.</translation>
+        <translation>Operació completada! Tot s&apos;ha fet bé.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="115"/>
+        <location filename="../mainwindow.cpp" line="123"/>
         <source>Error Occurred! Please try again later.</source>
-        <translation>S'ha produït un error! Torneu-ho a provar més tard.</translation>
+        <translation>S&apos;ha produït un error! Torneu-ho a provar més tard.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="120"/>
+        <location filename="../mainwindow.cpp" line="128"/>
         <source>Goodbye! See you next time!</source>
         <translation>Adéu! Molta volta!</translation>
     </message>

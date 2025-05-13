@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="en">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="en">
 <context>
     <name>MainWindow</name>
     <message>
@@ -86,37 +84,37 @@
     <message>
         <location filename="../mainwindow.cpp" line="48"/>
         <source>automatic detection and processing of multilingual translation</source>
-        <translation type="unfinished"></translation>
+        <translation>automatic detection and processing of multilingual translation</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="49"/>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>today</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="50"/>
         <source>yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>yesterday</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="51"/>
         <source>tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>tomorrow</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="52"/>
         <source>week</source>
-        <translation type="unfinished"></translation>
+        <translation>week</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="53"/>
         <source>month</source>
-        <translation type="unfinished"></translation>
+        <translation>month</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="54"/>
         <source>year</source>
-        <translation type="unfinished"></translation>
+        <translation>year</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="83"/>

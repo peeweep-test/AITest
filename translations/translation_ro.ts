@@ -82,52 +82,87 @@
         <translation>Platformă</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="75"/>
+        <location filename="../mainwindow.cpp" line="48"/>
+        <source>automatic detection and processing of multilingual translation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="49"/>
+        <source>today</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="50"/>
+        <source>yesterday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="51"/>
+        <source>tomorrow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="52"/>
+        <source>week</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="53"/>
+        <source>month</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="54"/>
+        <source>year</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="83"/>
         <source>Welcome to our application!</source>
         <translation>Bine ai venit în aplicația noastră!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="80"/>
+        <location filename="../mainwindow.cpp" line="88"/>
         <source>Hello World! This is a test message.</source>
         <translation>Salutărea Mondului! Aceasta este un mesaj de test.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="85"/>
+        <location filename="../mainwindow.cpp" line="93"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>Bună dimineața! Ați avut o zi buna!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="90"/>
-        <source>Good Afternoon! Hope you're having a productive day!</source>
+        <location filename="../mainwindow.cpp" line="98"/>
+        <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>Bună după-amiază! Sper că ai o zi productivă!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="95"/>
+        <location filename="../mainwindow.cpp" line="103"/>
         <source>Good Evening! Time to relax!</source>
         <translation>Bună seara! Timpul de a vă relaxa!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="100"/>
+        <location filename="../mainwindow.cpp" line="108"/>
         <source>Thank You for using our application!</source>
         <translation>Mulțumim că folosești aplicația noastră!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="105"/>
+        <location filename="../mainwindow.cpp" line="113"/>
         <source>Please Wait while we process your request...</source>
         <translation>Vă rugăm să așteptați procesarea cererii dumneavoastră...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="110"/>
+        <location filename="../mainwindow.cpp" line="118"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>Operațiunea a fost completată! Totul a mers bine.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="115"/>
+        <location filename="../mainwindow.cpp" line="123"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>Eroare! Vă rugăm să încercați din nou mai târziu.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="120"/>
+        <location filename="../mainwindow.cpp" line="128"/>
         <source>Goodbye! See you next time!</source>
         <translation>La revedere! Vă așteptăm la următoarea dată.</translation>
     </message>

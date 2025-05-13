@@ -82,52 +82,87 @@
         <translation>Platform</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="75"/>
+        <location filename="../mainwindow.cpp" line="48"/>
+        <source>automatic detection and processing of multilingual translation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="49"/>
+        <source>today</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="50"/>
+        <source>yesterday</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="51"/>
+        <source>tomorrow</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="52"/>
+        <source>week</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="53"/>
+        <source>month</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="54"/>
+        <source>year</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="83"/>
         <source>Welcome to our application!</source>
         <translation>Welkom bij onze toepassing!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="80"/>
+        <location filename="../mainwindow.cpp" line="88"/>
         <source>Hello World! This is a test message.</source>
         <translation>Hallo wereld! Dit is een testbericht.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="85"/>
+        <location filename="../mainwindow.cpp" line="93"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>Goedemorgen! Welterusten!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="90"/>
-        <source>Good Afternoon! Hope you're having a productive day!</source>
+        <location filename="../mainwindow.cpp" line="98"/>
+        <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>Goedemiddag! Hopelijk een productive dag!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="95"/>
+        <location filename="../mainwindow.cpp" line="103"/>
         <source>Good Evening! Time to relax!</source>
         <translation>Goedenavond! Tijd om te ontspannen!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="100"/>
+        <location filename="../mainwindow.cpp" line="108"/>
         <source>Thank You for using our application!</source>
         <translation>Bedankt voor het gebruiken van onze toepassing!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="105"/>
+        <location filename="../mainwindow.cpp" line="113"/>
         <source>Please Wait while we process your request...</source>
         <translation>Aub wacht terwijl we uw verzoek verwerken...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="110"/>
+        <location filename="../mainwindow.cpp" line="118"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>Operatie voltooid! Alles is goed gegaan.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="115"/>
+        <location filename="../mainwindow.cpp" line="123"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>Fout opgetreden! Probeer het later opnieuw.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="120"/>
+        <location filename="../mainwindow.cpp" line="128"/>
         <source>Goodbye! See you next time!</source>
         <translation>Tot ziens! Tot de volgende keer!</translation>
     </message>

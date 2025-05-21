@@ -123,56 +123,61 @@
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="56"/>
-        <source>mystical.</source>
+        <source>one.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="86"/>
+        <location filename="../mainwindow.cpp" line="57"/>
+        <source>two.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="88"/>
         <source>Welcome to our application!</source>
         <translation>Bem-vindo à nossa aplicação!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="91"/>
+        <location filename="../mainwindow.cpp" line="93"/>
         <source>Hello World! This is a test message.</source>
         <translation>Olá Mundo! Esta é uma mensagem de teste.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="96"/>
+        <location filename="../mainwindow.cpp" line="98"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>Bom dia! Que tenha um ótimo dia!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="101"/>
+        <location filename="../mainwindow.cpp" line="103"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>Boa tarde! Espero que tenha um dia produtivo!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="106"/>
+        <location filename="../mainwindow.cpp" line="108"/>
         <source>Good Evening! Time to relax!</source>
         <translation>Boa noite! É hora de relaxar!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="113"/>
         <source>Thank You for using our application!</source>
         <translation>Obrigado por usar nossa aplicação!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="116"/>
+        <location filename="../mainwindow.cpp" line="118"/>
         <source>Please Wait while we process your request...</source>
         <translation>Por favor, aguarde enquanto processamos sua solicitação...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="121"/>
+        <location filename="../mainwindow.cpp" line="123"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>Operação concluída! Tudo correu bem.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="126"/>
+        <location filename="../mainwindow.cpp" line="128"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>Ocorreu um erro! Tente novamente mais tarde.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="131"/>
+        <location filename="../mainwindow.cpp" line="133"/>
         <source>Goodbye! See you next time!</source>
         <translation>Até a próxima! Volte sempre!</translation>
     </message>

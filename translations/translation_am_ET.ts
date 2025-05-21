@@ -122,60 +122,65 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="84"/>
+        <location filename="../mainwindow.cpp" line="56"/>
+        <source>mystical.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="86"/>
         <source>Welcome to our application!</source>
         <translation>እንዴት ጠቃሽልን የኋላ የኋላ የአበል ተቃላይ ተጠቃላይ!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="89"/>
+        <location filename="../mainwindow.cpp" line="91"/>
         <source>Hello World! This is a test message.</source>
         <translation>ሰላም የወርድል! እዚህ የትክስ መልሮ ነው。
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="94"/>
+        <location filename="../mainwindow.cpp" line="96"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>አርፋ የእምሮ! የእንደምን ይለኩ!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="99"/>
+        <location filename="../mainwindow.cpp" line="101"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>አርፋ የአርብናና! በእነዚህ ዓመት እንዴት ያለው የሚመስለው ይገባል!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="104"/>
+        <location filename="../mainwindow.cpp" line="106"/>
         <source>Good Evening! Time to relax!</source>
         <translation>አርፋ የአንፋንያን! አቀፍ ሰንኑ እንኳን!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="109"/>
+        <location filename="../mainwindow.cpp" line="111"/>
         <source>Thank You for using our application!</source>
         <translation>እንዴት የእናንዱ የአበል ተቃላይ ተጠቃላይ ይችላል!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="114"/>
+        <location filename="../mainwindow.cpp" line="116"/>
         <source>Please Wait while we process your request...</source>
         <translation>በመሆን እዚህ ይጠፋል ያለን... ከእያንዳንዱ የሆን ይቀላሉ...
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="119"/>
+        <location filename="../mainwindow.cpp" line="121"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>አቅilmingtonች! እንዴት ያለው ይስጠሆን!
 </translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="124"/>
+        <location filename="../mainwindow.cpp" line="126"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>የጀመሪያ አልቻለም! እናደርጋለን ማለት እንደሚወሰዳ.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="129"/>
+        <location filename="../mainwindow.cpp" line="131"/>
         <source>Goodbye! See you next time!</source>
         <translation>ደልና! እንደሚወሰዳ ይህም አንድ አመ.</translation>
     </message>

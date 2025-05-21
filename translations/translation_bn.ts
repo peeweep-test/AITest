@@ -122,52 +122,57 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="84"/>
+        <location filename="../mainwindow.cpp" line="56"/>
+        <source>mystical.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="86"/>
         <source>Welcome to our application!</source>
         <translation>আপনাকে আমাদের অ্যাপ্লিকেশনে স্বাগতম!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="89"/>
+        <location filename="../mainwindow.cpp" line="91"/>
         <source>Hello World! This is a test message.</source>
         <translation>হ্যালো বিশ্ব! এটি একটি পরীক্ষামূলক মেসেজ।</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="94"/>
+        <location filename="../mainwindow.cpp" line="96"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>সোনার সকাল! আপনার দিন ভালো হোক!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="99"/>
+        <location filename="../mainwindow.cpp" line="101"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>সোনার বোৰ্নান্ড! আশা করছি আপনি একটি উৎপাদক দিন কাটিয়েছেন!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="104"/>
+        <location filename="../mainwindow.cpp" line="106"/>
         <source>Good Evening! Time to relax!</source>
         <translation>সোনার সারাত! সময় আসছে যেন নিষ্পেষ্ট হয়ে থাকেন!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="109"/>
+        <location filename="../mainwindow.cpp" line="111"/>
         <source>Thank You for using our application!</source>
         <translation>আপনার অ্যাপ্লিকেশন ব্যবহারের জন্য ধন্যবাদ!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="114"/>
+        <location filename="../mainwindow.cpp" line="116"/>
         <source>Please Wait while we process your request...</source>
         <translation>আপনার প্রার্থনা চলাচল করার জন্য আপনাকে অপেক্ষা করার অনুরোধ করা হচ্ছে...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="119"/>
+        <location filename="../mainwindow.cpp" line="121"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>পরিকল্পনা সম্পূর্ণ! সব সুন্দর হয়ে গেছে।</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="124"/>
+        <location filename="../mainwindow.cpp" line="126"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>সমস্যা সংঘটিত! আপনাকে আরেকবার পরে চেষ্টা করতে হবে।</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="129"/>
+        <location filename="../mainwindow.cpp" line="131"/>
         <source>Goodbye! See you next time!</source>
         <translation>বা�銷ী! আপনাকে আরেকবার দেখা হবে!</translation>
     </message>

@@ -117,52 +117,57 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="83"/>
+        <location filename="../mainwindow.cpp" line="55"/>
+        <source>It&apos;s a good day.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="84"/>
         <source>Welcome to our application!</source>
         <translation>Tere tulemast programme!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="88"/>
+        <location filename="../mainwindow.cpp" line="89"/>
         <source>Hello World! This is a test message.</source>
         <translation>Tere maailm! See on testiviest.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="93"/>
+        <location filename="../mainwindow.cpp" line="94"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>Tere päev! Sinu päev peab olema hea!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="98"/>
+        <location filename="../mainwindow.cpp" line="99"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>Tere õhtul! Toivame, et sinu päev on produktiivne.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="103"/>
+        <location filename="../mainwindow.cpp" line="104"/>
         <source>Good Evening! Time to relax!</source>
         <translation>Tere ilu! Aeg lahutuda!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="108"/>
+        <location filename="../mainwindow.cpp" line="109"/>
         <source>Thank You for using our application!</source>
         <translation>Palun kasutasite meie programme!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="113"/>
+        <location filename="../mainwindow.cpp" line="114"/>
         <source>Please Wait while we process your request...</source>
         <translation>Palun oota, kuni me läbistasime teie vaataja...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="118"/>
+        <location filename="../mainwindow.cpp" line="119"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>Operatsioon on lõppenud! Kõik läksid õigesti.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="123"/>
+        <location filename="../mainwindow.cpp" line="124"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>Tekk viga! Palun proovige hiljem uuesti.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="128"/>
+        <location filename="../mainwindow.cpp" line="129"/>
         <source>Goodbye! See you next time!</source>
         <translation>Tõuse! Vaata meid järgmise korda.</translation>
     </message>

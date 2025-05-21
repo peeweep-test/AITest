@@ -1,4 +1,6 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="en">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="en">
 <context>
     <name>MainWindow</name>
     <message>
@@ -117,52 +119,57 @@
         <translation>year</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="83"/>
+        <location filename="../mainwindow.cpp" line="55"/>
+        <source>It&apos;s a good day.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="84"/>
         <source>Welcome to our application!</source>
         <translation>Welcome to our application!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="88"/>
+        <location filename="../mainwindow.cpp" line="89"/>
         <source>Hello World! This is a test message.</source>
         <translation>Hello World! This is a test message.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="93"/>
+        <location filename="../mainwindow.cpp" line="94"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>Good Morning! Have a nice day!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="98"/>
+        <location filename="../mainwindow.cpp" line="99"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>Good Afternoon! Hope you&apos;re having a productive day!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="103"/>
+        <location filename="../mainwindow.cpp" line="104"/>
         <source>Good Evening! Time to relax!</source>
         <translation>Good Evening! Time to relax!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="108"/>
+        <location filename="../mainwindow.cpp" line="109"/>
         <source>Thank You for using our application!</source>
         <translation>Thank You for using our application!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="113"/>
+        <location filename="../mainwindow.cpp" line="114"/>
         <source>Please Wait while we process your request...</source>
         <translation>Please Wait while we process your request...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="118"/>
+        <location filename="../mainwindow.cpp" line="119"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>Operation Complete! Everything went well.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="123"/>
+        <location filename="../mainwindow.cpp" line="124"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>Error Occurred! Please try again later.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="128"/>
+        <location filename="../mainwindow.cpp" line="129"/>
         <source>Goodbye! See you next time!</source>
         <translation>Goodbye! See you next time!</translation>
     </message>

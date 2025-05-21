@@ -122,52 +122,57 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="84"/>
+        <location filename="../mainwindow.cpp" line="56"/>
+        <source>mystical.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="86"/>
         <source>Welcome to our application!</source>
         <translation>Chào mừng bạn đến với ứng dụng của chúng tôi!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="89"/>
+        <location filename="../mainwindow.cpp" line="91"/>
         <source>Hello World! This is a test message.</source>
         <translation>Xin chào Thế Giới! Đây là thông điệp kiểm thử.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="94"/>
+        <location filename="../mainwindow.cpp" line="96"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>Chào buổi sáng! Mong bạn có một ngày tốt lành!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="99"/>
+        <location filename="../mainwindow.cpp" line="101"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>Chào buổi chiều! Mong bạn có một ngày làm việc hiệu quả!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="104"/>
+        <location filename="../mainwindow.cpp" line="106"/>
         <source>Good Evening! Time to relax!</source>
         <translation>Chào buổi tối! Thời gian để thư giãn!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="109"/>
+        <location filename="../mainwindow.cpp" line="111"/>
         <source>Thank You for using our application!</source>
         <translation>Cảm ơn bạn đã sử dụng ứng dụng của chúng tôi!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="114"/>
+        <location filename="../mainwindow.cpp" line="116"/>
         <source>Please Wait while we process your request...</source>
         <translation>Vui lòng chờ trong khi chúng tôi xử lý yêu cầu của bạn...</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="119"/>
+        <location filename="../mainwindow.cpp" line="121"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>Hoạt động hoàn tất! Mọi thứ đều ổn!</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="124"/>
+        <location filename="../mainwindow.cpp" line="126"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>Đã xảy ra lỗi! Vui lòng thử lại sau.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="129"/>
+        <location filename="../mainwindow.cpp" line="131"/>
         <source>Goodbye! See you next time!</source>
         <translation>Tạm biệt! Hẹn gặp lại!</translation>
     </message>

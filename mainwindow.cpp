@@ -53,6 +53,8 @@ void MainWindow::setupButtons()
     buttons[19] = new QPushButton(tr("month"), this);
     buttons[20] = new QPushButton(tr("year"), this);    
     buttons[21] = new QPushButton(tr("It's a good day."), this);  
+    buttons[21] = new QPushButton(tr("mystical."), this);  
+
 
 
 

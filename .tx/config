@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[o:JWWTSL:p:AITest:r:c22db2a7e9b8c09b40a719ac612b845f]
+[o:peeweep-test:p:AITest:r:c22db2a7e9b8c09b40a719ac612b845f]
 file_filter = translations/translation_<lang>.ts
 source_file = translations/translation_en.ts
 source_lang = en_US

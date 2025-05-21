@@ -123,56 +123,61 @@
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="56"/>
-        <source>mystical.</source>
+        <source>one.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="86"/>
+        <location filename="../mainwindow.cpp" line="57"/>
+        <source>two.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="88"/>
         <source>Welcome to our application!</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="91"/>
+        <location filename="../mainwindow.cpp" line="93"/>
         <source>Hello World! This is a test message.</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་ལྟ་བ་སྤྱད་བཞིན་སྤྱད་བྱེད་བྱེད་ཀྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="96"/>
+        <location filename="../mainwindow.cpp" line="98"/>
         <source>Good Morning! Have a nice day!</source>
         <translation>ལོ་གསར་ལོ་གསར་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="101"/>
+        <location filename="../mainwindow.cpp" line="103"/>
         <source>Good Afternoon! Hope you&apos;re having a productive day!</source>
         <translation>ལོ་ཤེས་ལོ་ཤེས་ལ་བཟོད་པ་རེད། འདི་ལོ་ཤེས་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="106"/>
+        <location filename="../mainwindow.cpp" line="108"/>
         <source>Good Evening! Time to relax!</source>
         <translation>ལོ་ཤེས་ལོ་ཤེས་ལ་བཟོད་པ་རེད། རྒྱུ་ལྟར་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="111"/>
+        <location filename="../mainwindow.cpp" line="113"/>
         <source>Thank You for using our application!</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་བོད་ཡིག་ལ་བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་ལྟ་བ་བྱེད་བཞིན་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="116"/>
+        <location filename="../mainwindow.cpp" line="118"/>
         <source>Please Wait while we process your request...</source>
         <translation>བཀྲ་ཤིས་བདེ་ལེགས་ལ་བཟོད་པ་རེད། གྱི་ལྟ་བ་བྱེད་བཞིན་བཟོད་པ་རེད། མེད་པ་ལ་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="121"/>
+        <location filename="../mainwindow.cpp" line="123"/>
         <source>Operation Complete! Everything went well.</source>
         <translation>བཟོད་པ་རེད། གྱི་ལྟ་བ་བྱེད་བཞིན་བཟོད་པ་རེད།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="126"/>
+        <location filename="../mainwindow.cpp" line="128"/>
         <source>Error Occurred! Please try again later.</source>
         <translation>ལོ་ཤིས་ལུ་རྒྱུ་ཡོད་པ་ལ་བློ་གྲུབ་རྒྱ་མཚོ་ལྟར་ཡོད་པ་འབྲེལ་བ་ལྟར།</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="131"/>
+        <location filename="../mainwindow.cpp" line="133"/>
         <source>Goodbye! See you next time!</source>
         <translation>བཟོ་བྱེད་! སྤྱན་ལས་བཟོ་བྱེད་ཀྱི་ལམ་ལྟར་ཡོད་པ་འབྲེལ་བ་ལྟར།</translation>
     </message>
